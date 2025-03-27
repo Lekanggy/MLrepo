@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: my_tools
+Version: 0.1
+Summary: A simple Python module
+Home-page: https://github.com/Lekanggy/my_tools
+Author: Idris
+Author-email: lekanggy12@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
